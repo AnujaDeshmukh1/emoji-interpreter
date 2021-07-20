@@ -6,6 +6,11 @@ var emojiDictionary = {
   "😂": "Tears of Joy",
   "😍": "Heart Shaped Eyes",
   "😋": "Savouring",
+  "😀": "Grinning Face",
+  "😃": "Grinning Face with Big Eyes",
+  "🤣": "Rolling on the floor Laughing",
+  "🙃": "Upside-Down Face",
+  "😉": "Winking Face",
   "💕": "Love"
 };
 

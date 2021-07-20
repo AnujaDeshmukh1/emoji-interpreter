@@ -17,7 +17,19 @@ var emojiDictionary = {
   "😕": "Confused Face",
   "😕": "Worried Face",
   "😭": "Loudly Crying Face",
-  "💕": "Love"
+  "💕": "Love",
+  "🍇": "Grapes",
+  "🍈": "Melon",
+  "🍉": "Watermelon",
+  "🍌": "Banana",
+  "🍍": "Pineapple",
+  "🙈": "See-no-evil Monkey",
+  "🙉": "Hear-no-evil Monkey",
+  "🙊": "Speak-no-evil Monkey",
+  "🐕": "Dog",
+  "🐈": "Cat",
+  "🦁": "Lion",
+  "🐅": "Tiger"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);

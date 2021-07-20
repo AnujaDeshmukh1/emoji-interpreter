@@ -11,6 +11,12 @@ var emojiDictionary = {
   "🤣": "Rolling on the floor Laughing",
   "🙃": "Upside-Down Face",
   "😉": "Winking Face",
+  "😗": "Kissing Face",
+  "🥲": "Smilling Face with Tear",
+  "😛": "Face with Toungue",
+  "😕": "Confused Face",
+  "😕": "Worried Face",
+  "😭": "Loudly Crying Face",
   "💕": "Love"
 };
 
